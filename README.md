@@ -2,7 +2,8 @@ It includes Login page with input fields Username, Password and when you login i
 It also includes Sign up page which includes Username,Password and Password Confirmation.
 
                          Methodology
-5.1Description of the Project work
+Description of the Project work
+
 The main objective of the project is to know fundamental concepts and can work on the 
 HTML, CSS and Javascript and the backend technologies like MySQL, JDBC.
 The Objective of the project is to enable users all around the world to show the different 
